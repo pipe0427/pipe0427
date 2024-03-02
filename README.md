@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Mi README</title>
-</head>
 <body>
     <h1>Bienvenido a mi proyecto</h1>
     <p>Los lenguajes de programación que más uso o tengo conocimiento son:</p>
