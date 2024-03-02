@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan felipe franco tamayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan felipe franco tamayo" height="30" width="40" /></a>
-<a href="https://instagram.com/pipe04271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pipe04271" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pipe.04271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pipe.04271/" height="30" width="40" /></a>
 <a href="https://discord.gg/pipe0427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pipe0427" height="30" width="40" /></a>
 </p>
 
