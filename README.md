@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi README</title>
+</head>
+<body>
+    <h1>Bienvenido a mi proyecto</h1>
+    <p>Los lenguajes de programación que más uso o tengo conocimiento son:</p>
+    <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Kotlin</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Angular</li>
+        <li>Linux</li>
+    </ul>
+</body>
+</html>
