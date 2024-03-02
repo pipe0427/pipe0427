@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Mi README</title>
+</head>
 <body>
     <h1>Bienvenido a mi proyecto</h1>
     <p>Los lenguajes de programación que más uso o tengo conocimiento son:</p>
     <ul>
-        <li>Java</li>
+        <li><img src="https://www.flaticon.com/free-icon/java_5968282" width="20" height="20"> Java</li>
         <li>Python</li>
         <li>Kotlin</li>
         <li>JavaScript</li>
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
     </ul>
 </body>
 </html>
+
