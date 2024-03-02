@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <h1>Bienvenido a mi proyecto</h1>
     <p>Los lenguajes de programación que más uso o tengo conocimiento son:</p>
     <ul>
-        <li><img src="https://www.flaticon.com/free-icon/java_5968282" width="20" height="20"> Java</li>
+        <li><img src="[https://www.flaticon.com/free-icon/java_5968282](https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png)" width="20" height="20"> Java</li>
         <li>Python</li>
         <li>Kotlin</li>
         <li>JavaScript</li>
